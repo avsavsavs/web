@@ -28,7 +28,7 @@ export const FAQ_CONTENT: {
     question: "What is MEV?",
     answer: (
       <>
-        MEV or “maximal extractable value” is a method used by savvy actors
+        MEV or “miner extractable value” is a method used by savvy actors
         (known as “searchers”) to exploit your transactions at your expense.{" "}
         <br />
         <br />
